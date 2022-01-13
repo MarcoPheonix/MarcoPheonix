@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things interesting
 - 🌱 I’m currently learning the purpose of life
 - 💞️ I’m looking to collaborate on defi projects 
-- 📫 How to reach me on github
+- 📫 How to reach me: on github
 
 <!---
 MarcoPheonix/MarcoPheonix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
